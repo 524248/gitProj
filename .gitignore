@@ -1,2 +1,5 @@
 /.DS_Store
 
+# Auto generated files
+auto-gen-files/*.txt
+
